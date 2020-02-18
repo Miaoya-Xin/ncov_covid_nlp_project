@@ -2,7 +2,7 @@
 做为NLP方向的一名研发工作者，爬取疫情信息进行NLP分析，也算是结合自己所学对“抗疫”工作进行支持，武汉加油，中国加油！同时该项目适用于NLP初学者入门参考。
 
 # 语言
-python 3.7
+anaconda 4.8.2 + python 3.7
 
 # MySql
 * sql语句请参考 spider/write_url.sql<br>
