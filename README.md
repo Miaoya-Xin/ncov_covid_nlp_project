@@ -6,7 +6,8 @@ python 3.7
 
 # NLP分析
 * 词频统计<br>
-
+![请查看word_cloud/bar_chart_abroad.jpg](https://github.com/Miaoya-Xin/ncov_covid_nlp_project/blob/master/word_cloud/bar_chart_abroad.jpg)
+![请查看word_cloud/bar_chart_domestic.jpg](https://github.com/Miaoya-Xin/ncov_covid_nlp_project/blob/master/word_cloud/bar_chart_domestic.jpg)
 * 词云<br>
 * 情感分析<br>
 
