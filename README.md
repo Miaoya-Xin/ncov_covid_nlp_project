@@ -7,7 +7,7 @@ python 3.7
 
 词云
 
-情感统计
+情感分析
 
 # 数据来源
 https://github.com/2019ncovmemory/nCovMemory
