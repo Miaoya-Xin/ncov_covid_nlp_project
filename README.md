@@ -4,11 +4,15 @@
 # 语言
 python 3.7
 
+# MySql
+* sql语句请参考 spider/write_url.sql<br>
+* 数据库类请参考 data_oper/database.py<br>
+
 # NLP分析
 * 词频统计<br>
 * 词云<br>
 * 情感分析<br>
 
-# 数据来源
+# 参考数据来源
 * https://github.com/2019ncovmemory/nCovMemory<br>
 * https://github.com/Academic-nCoV/2019-nCoV/wiki<br>
