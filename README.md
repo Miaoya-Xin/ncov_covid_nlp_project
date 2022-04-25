@@ -1,4 +1,6 @@
 # ncov_covid_nlp_project
+该项目已切换到[fhaoguo/ncov_covid_nlp_project_ext](https://github.com/fhaoguo/ncov_covid_nlp_project_ext)进行维护。
+
 做为NLP方向的一名研发工作者，爬取疫情信息进行NLP分析，也算是结合自己所学对“抗疫”工作进行支持，武汉加油，中国加油！同时该项目适用于NLP初学者入门参考。
 
 # 语言
